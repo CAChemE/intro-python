@@ -3,6 +3,7 @@
 #### Francisco Navarro-Brull, Zuria Bauer, Benjamin Laken
 
 2.5 h
+
 Nivel: Básico
 
 ## Resumen (500 carácteres)
