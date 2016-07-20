@@ -2,9 +2,9 @@
 
 #### Francisco Navarro-Brull, Zuria Bauer, Benjamin Laken
 
-2.5 h
-
-Nivel: Básico
+* Evento: [PyConES 2016](http://2016.es.pycon.org/es/)
+* Duración: 2.5 h
+* Nivel: Básico
 
 ## Resumen (500 carácteres)
 La mejor forma de aprender a programar es haciendo algo útil, por lo que esta introducción a Python se centrará alrededor de una tarea científica común: el análisis de datos. En este taller práctico se hará un breve repaso a los conceptos básicos de programación con el fin de automatizar procesos de análisis de datos (sintaxis de Python, NumPy, matplotlib). Software-Carpentry.org ayuda a investigadores/as de todo el mundo a llevar a cabo más trabajo en menos tiempo y con el «menor dolor posible».
