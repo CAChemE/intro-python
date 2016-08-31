@@ -1,4 +1,4 @@
-# Introducción a Python (basado en Software Carpentry)
+# Introducción a Python para principiantes (basado en Software Carpentry)
 
 #### Francisco Navarro-Brull, Zuria Bauer, Benjamin Laken
 
