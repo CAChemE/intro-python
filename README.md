@@ -20,7 +20,10 @@ La mejor forma de aprender a programar es haciendo algo útil, por lo que esta i
 
 
 ## ¿Qué vamos a dar?
-En esta ocasión, instructores de Software Carpentry y ayudantes harán una [introducción a Python](http://swcarpentry.github.io/python-novice-inflammation/) enseñando los conceptos de programación y la sintaxis de Python analizando datos de diferentes archivos. 
+En esta ocasión, instructores de Software Carpentry y ayudantes harán una [introducción a Python](http://swcarpentry.github.io/python-novice-inflammation/) enseñando:
+
+-  Los conceptos de programación generales analizando datos de diferentes archivos 
+-  La sintaxis de Python 3 (haciendo uso de variables, bucles, condicionales y funciones)
 
 Utilizaremos Python porque:
 
